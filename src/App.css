@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap");
+h1 {
+  text-align: center;
+}
+input {
+  margin-left: auto;
+}
+.name {
+  margin-left: 500px;
+  margin-right: 500px;
+  border-width: 2px;
+  border-style: dashed;
+  margin-top: 40px;
+  text-align: center;
+}
